@@ -1,0 +1,5 @@
+bucket_name = "stagetf-bucket-name1021"
+Environment = "stage"
+ami = "ami-0abcdef1234567890" 
+instance_type = "t3.micro"
+tag = "stageHelloWorld"
