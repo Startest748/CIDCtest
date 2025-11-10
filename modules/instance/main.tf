@@ -10,6 +10,6 @@ resource "aws_instance" "ec2create" {
                EOF
 
   tags = {
-    Name = "HelloWorld"
+    Name = "Jenkins-Test"
   }
 }

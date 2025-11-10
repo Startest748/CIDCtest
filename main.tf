@@ -19,7 +19,7 @@
 #                EOF
 
 #   tags = {
-#     Name = "HelloWorld"
+#     Name = "Jenkinstest"
 #   }
 # }
 
