@@ -2,7 +2,7 @@ resource "aws_s3_bucket" "bucket_name" {
  bucket = "mytf-jjtech-bucket1020" 
 
  tags = {
-    Name        = "Test bucket"
+    Name        = "cicd bucket"
     Environment = "modules-demo"
   }
 }
